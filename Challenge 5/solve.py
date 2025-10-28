@@ -12,11 +12,12 @@ def traverse(src, pwd):
         traverse(nxt, pwd+ch)
 
 '''
-Alternative solution
+Generates random valid passwords of length < 16
 
+pwd = ''
 path = []
 i = 0
-while len(pwd) != 16:
+while len(pwd) != 15:
     dst = obf_graph[i][0]
     pwd += dst[1]
     path.append(i)
