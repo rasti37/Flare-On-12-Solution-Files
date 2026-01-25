@@ -1,0 +1,8 @@
+0x7ff7452952d7 => call    qword ptr [rax]
+0x7ff7452952e3 => call    sub_7FF74510F1B0
+0x7ff745295303 => call    sub_7FF744F13E00
+0x7ff74529530b => call    sub_7FF7450C0E70
+0x7ff74529531a => call    sub_7FF74510F1B0
+0x7ff745295342 => call    sub_7FF744E94C50
+0x7ff74529534f => call    ?dtor$2@?0??global@locale@std@@SA?AV12@AEBV12@@Z@4HA_0; int `std::locale::global(locale::global const &)'::`1'::dtor$2
+0x7ff74529535c => call    ?dtor$2@?0??global@locale@std@@SA?AV12@AEBV12@@Z@4HA_0; int `std::locale::global(locale::global const &)'::`1'::dtor$2

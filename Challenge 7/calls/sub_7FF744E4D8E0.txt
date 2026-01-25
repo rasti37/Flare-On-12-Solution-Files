@@ -1,0 +1,3 @@
+0x7ff744e51529 => call    cs:GetUserNameA
+0x7ff744e518f2 => call    sub_7FF745272E50
+0x7ff744e51904 => call    __security_check_cookie

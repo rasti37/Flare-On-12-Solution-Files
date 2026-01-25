@@ -1,0 +1,10 @@
+0x7ff744ea08f4 => call    memset
+0x7ff744ea0905 => call    sub_7FF7450DBD50
+0x7ff744ea2886 => call    cs:??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z; std::ostream::operator<<(std::ios_base & (*)(std::ios_base &))
+0x7ff744ea4b12 => call    cs:?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z; std::setw(__int64)
+0x7ff744ea4b31 => call    qword ptr [rax]
+0x7ff744ea4b51 => call    cs:??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z; std::ostream::operator<<(int)
+0x7ff744ea69b6 => call    sub_7FF74526CCA0
+0x7ff744ea69c3 => call    sub_7FF7450DBCF0
+0x7ff744ea69cf => call    cs:??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ; std::ios::~ios<char,std::char_traits<char>>(void)
+0x7ff744ea69e2 => call    __security_check_cookie

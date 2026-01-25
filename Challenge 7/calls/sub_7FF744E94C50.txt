@@ -1,0 +1,1 @@
+0x7ff744e989f3 => call    cs:__imp_exit

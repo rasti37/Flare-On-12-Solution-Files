@@ -1,0 +1,7 @@
+0x7ff744ea8a8f => call    sub_7FF74510F340
+0x7ff744eaac60 => call    ?end@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA?AV?$_String_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@2@XZ; std::string::end(void)
+0x7ff744eaac72 => call    sub_7FF74510EEA0
+0x7ff744eaac8b => call    sub_7FF745271900
+0x7ff744eb4bb3 => call    sub_7FF74510EE00
+0x7ff744eb6e02 => call    sub_7FF7450F4A30
+0x7ff744eb6e14 => call    __security_check_cookie

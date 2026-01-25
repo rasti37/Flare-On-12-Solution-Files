@@ -1,0 +1,5 @@
+0x7ff744e555cb => call    cs:GetComputerNameA
+0x7ff744e573d1 => call    sub_7FF744E57410
+0x7ff744e573d9 => call    sub_7FF74510BC00
+0x7ff744e573e4 => call    sub_7FF74510F1B0
+0x7ff744e573f6 => call    __security_check_cookie
