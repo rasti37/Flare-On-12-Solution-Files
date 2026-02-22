@@ -8,3 +8,4 @@ In this repository I will upload all the files I used to solve Flare-On 12. You 
 - [Challenge 5](https://www.youtube.com/watch?v=3d-DvWABPvY&list=PLTB_YxFt6y5NW8V08nMZhf1e0QEElm6gv&index=3)
 - [Challenge 6](https://www.youtube.com/watch?v=QHkrh5n10-k&list=PLTB_YxFt6y5NW8V08nMZhf1e0QEElm6gv&index=4)
 - [Challenge 7](https://www.youtube.com/watch?v=EWk2ZShJJ-M&list=PLTB_YxFt6y5NW8V08nMZhf1e0QEElm6gv&index=5)
+- [Challenge 8](https://www.youtube.com/watch?v=X7sVkRHi5Sc&list=PLTB_YxFt6y5NW8V08nMZhf1e0QEElm6gv&index=5)
